@@ -28,7 +28,7 @@ To build and run the sample application, first obtain an app ID:
 
 ## Update and Run the Sample Application
 
-1. Open the main.dart file and replace the app ID and token.
+1. Open the HomeScreen.dart file and replace the app ID and token.
 
 ```const appId = "";```
 
